@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Work
-permalink: /jobs/
 ---
 
 <p>Here are some jobs I've held, and some information about them.</p>
@@ -10,6 +9,7 @@ permalink: /jobs/
 ##{{ employer.name }}:
 * **Title:** &ensp; {{ employer.title }} 
 * **Dates Employed:** &ensp; {{ employer.dates }}
+
 {{ employer.blurb }}
 {% endfor %}
 
