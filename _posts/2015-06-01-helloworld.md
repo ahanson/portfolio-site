@@ -15,4 +15,4 @@ Right now, it's using the [default theme](https://github.com/jglovier/jekyll-new
 * Get a domain name and a host.
 * Set up an email accont for the site.
 * Set up a Google form to receive messages.
-* Set up [Glynn](https://github.com/dmathieu/glynn) and upload content.
+* Set up [Glynn](https://github.com/dmathieu/glynn) and [upload the site](http://jekyllrb.com/docs/deployment-methods/).
