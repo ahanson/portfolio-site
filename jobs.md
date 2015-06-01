@@ -1,13 +1,15 @@
 ---
 layout: page
 title: Work
+permalink: /jobs/
 ---
 
 <p>Here are some jobs I've held, and some information about them.</p>
 
 {% for employer in site.data.employers %}
 ##{{ employer.name }}:
-* **Title:** &ensp; {{ employer.title}} 
-* **Dates Employed:** &ensp; {{employer.dates}}
+* **Title:** &ensp; {{ employer.title }} 
+* **Dates Employed:** &ensp; {{ employer.dates }}
+{{ employer.blurb }}
 {% endfor %}
 
