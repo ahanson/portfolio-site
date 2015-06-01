@@ -3,7 +3,7 @@ layout: page
 title: Work
 ---
 
-<p>Here are some jobs I've held, and some information about them.</p>
+Here are some jobs I've held, and some information about them.
 
 {% for employer in site.data.employers %}
 ##{{ employer.name }}:
