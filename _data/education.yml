@@ -1,2 +1,11 @@
 ---
 -
+  name: "Beloit College"
+  location: "Beloit, WI"
+  date: "1994-1998"
+  details: "Bachelor of Arts, Political Science and European Studies. GPA 3.1."
+-
+  name: "Roosevelt University"
+  location: "Chicago, IL"
+  date: "2006-2009"
+  details: "Classes in Computer Science."
