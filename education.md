@@ -1,11 +1,11 @@
 ---
 layout: page
-Title: Education &amp; Certifications
+title: Education
 ---
 
 ##Education:
 {% for school in site.data.education %}
-###{{ school.name }}, {{school.location}}
+###{{ school.name }}, <span style="font-size:large;">{{school.location}}</span>
 
 {{ school.date }}
 
@@ -14,5 +14,5 @@ Title: Education &amp; Certifications
 
 ##Certifications:
 {% for cert in site.data.certifications %}
-* **{{ cert.name }}**&nbsp;{{ cert.date }}
+* **{{ cert.name }}**&nbsp;&nbsp;{{ cert.date }}
 {% endfor %}
