@@ -12,8 +12,13 @@ Right now, it's using the [default theme](https://github.com/jglovier/jekyll-new
 ##To do:
 
 ###Essential Stuff:
+* Convert version control from [Mercurial to Git](http://www.lancejian.com/2012/02/05/convert-mercurial-repository-into-git.html).
 * Get content right.
+    * Shrink picture on about page.
+    * Fix up text on pages so that it isn't so choppy.
 * Fix up theme.
+    * use Poole theme instead?
+    * create my own theme?
 * Get a domain name and a host.
 * Set up an email accont for the site.
 * Set up [Glynn](https://github.com/dmathieu/glynn) and [upload the site](http://jekyllrb.com/docs/deployment-methods/).
