@@ -3,8 +3,8 @@ title: Alex Hanson
 email: ahanson@runbox.com
 description: > # this means to ignore newlines until "baseurl:"
   Here's my personal portfolio site.
-baseurl: "/~alexh67/" # the subpath of your site, e.g. /blog/
-url: "http://home.covad.net/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 twitter_username: j_narwhal
 github_username:  ahanson
 linkedin_url: http://www.linkedin.com/in/alexrhanson
