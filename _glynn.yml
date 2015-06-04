@@ -1,8 +1,13 @@
+#Staging Host:
 ftp_host: 'home.covad.net'
 ftp_dir: '/public'
 ftp_passive: false
-
-# optional
-ftp_port: 21                  # default 21
-ftp_username: 'alexh67'     # default read from stdin
-ftp_secure: true              # default false
+ftp_port: 21                
+ftp_username: 'alexh67'
+ftp_secure: true
+#Production Host
+#ftp_host:
+#ftp_dir:
+#ftp_passive: false
+#ftp_port: 21
+#ftp_username:

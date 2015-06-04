@@ -3,8 +3,15 @@ title: Alex Hanson
 email: ahanson@runbox.com
 description: > # this means to ignore newlines until "baseurl:"
   Here's my personal portfolio site.
+# Settings for local testing:
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+# Settings for staging:
+#baseurl: "http://home.covad.net/" # the subpath of your site, e.g. /blog/
+#url: "/~alexh67/" # the base hostname & protocol for your site
+# Settings for production:
+#baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "" # the base hostname & protocol for your site
 twitter_username: j_narwhal
 github_username:  ahanson
 linkedin_url: http://www.linkedin.com/in/alexrhanson
