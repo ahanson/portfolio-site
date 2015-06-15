@@ -14,7 +14,7 @@ Right now, it's using the [default theme](https://github.com/jglovier/jekyll-new
 ###Done:
 * Convert version control from [Mercurial to Git](http://www.lancejian.com/2012/02/05/convert-mercurial-repository-into-git.html).
 * Made a [Git Repo](https://github.com/ahanson/portfolio-site) for my project.
-* Set up [Glynn](https://github.com/dmathieu/glynn).
+* Set up [Glynn](https://github.com/dmathieu/glynn) for automatic FTP/SFTP uploading.
 
 
 ###Essential Stuff:
@@ -22,7 +22,7 @@ Right now, it's using the [default theme](https://github.com/jglovier/jekyll-new
     * Shrink picture on about page.
     * Fix up text on pages so that it isn't so choppy.
 * Fix up theme.
-    * use Poole theme instead?
+    * use [Poole](https://github.com/poole/poole) themes instead?
     * create my own theme?
 * Get a domain name and a host.
 * Set up an email accont for the site.
@@ -31,5 +31,5 @@ Right now, it's using the [default theme](https://github.com/jglovier/jekyll-new
 
 ###Extra Features:
 * Set up a [Google](https://www.google.com/forms/about/) or [WuFoo](http://www.wufoo.com/) form to receive messages?
-* Enable comments with Disquis?
+* Enable comments with [Disquis](https://disqus.com/)?
 * Automatic validation and link checking?
